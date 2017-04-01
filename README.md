@@ -1,5 +1,5 @@
 # sdi.gtd.task.manager
-Trabajo SDI 2016-17
+Primera entrega de SDI 2016-17 (Falta funcionalidad)
 
 Autores:
 
